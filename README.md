@@ -1,10 +1,3 @@
-## Ảnh chụp màn hình chương trình
-
-### Màn hình đăng nhập
-![Login Screen](screenshots/login.jpg)
-
-### Màn hình chính
-![Main Screen](screenshots/main.jpg)
-
-### Màn hình hồ sơ
-![Profile Screen](screenshots/profile.jpg)
+![Login Screen](./Screenshots/login.jpg)
+![Main Screen](./Screenshots/main.jpg)
+![Profile Screen](./Screenshots/profile.jpg)
