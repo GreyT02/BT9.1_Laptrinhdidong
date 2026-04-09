@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "RestaurantApp_B9",
+    "slug": "restaurantapp-b9",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light"
+  }
+}
